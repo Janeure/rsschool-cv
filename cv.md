@@ -37,7 +37,7 @@ function helloWorld(){
 I currently have no experience in IT.
 
 ***
-## Education and courses:
+## Education and courses
 
 * Bachelor, Tver State University, Tver. Economy. Finance and credit
 * Courses [*Hexlet*](https://ru.hexlet.io):
@@ -46,3 +46,6 @@ I currently have no experience in IT.
     * Fundamentals of HTML, CSS and web design;
     * [Introduction to web development](https://ru.hexlet.io/courses/intro_to_web_development).
 ***
+## Languages
+* **Russian** - native speaker;
+* **English** - A2/B1.
