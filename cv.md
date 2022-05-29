@@ -10,7 +10,7 @@
 * **GitHub**: [*Janeure*](https://github.com/Janeure)
 * **Discord**: EvRogozova(@Janeure)  
 
-***  
+***
 
 ## Professional Summary
 
@@ -21,14 +21,14 @@ I am 24 years old, I am an economist. This profession does not give complex task
 1. self-organize;
 1. self-learning.  
 
-***  
+***
 
 ## Skills
 * HTML
 * CSS
 * Git, GutHub  
 
-***  
+***
 
 ## Code examples
 ```java script
@@ -52,7 +52,7 @@ I currently have no experience in IT.
     * Fundamentals of HTML, CSS and web design;
     * [Introduction to web development](https://ru.hexlet.io/courses/intro_to_web_development).  
     
-***  
+***
 ## Languages
 * **Russian** - native speaker;
 * **English** - A2/B1.
