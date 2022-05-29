@@ -1,7 +1,7 @@
 ## [rsschool-cv](https://rs.school)
-***
+
 # Evgeniya Rogozova
-***
+
 ## Contacts
 
 * **Address**: Koroleva, 57, St.-Petersburg, Russia
@@ -36,4 +36,13 @@ function helloWorld(){
 
 I currently have no experience in IT.
 
+***
+## Education and courses:
+
+* Bachelor, Tver State University, Tver. Economy. Finance and credit
+* Courses [*Hexlet*](https://ru.hexlet.io):
+    * [Git fundamentals](https://ru.hexlet.io/courses/intro_to_git);
+    * [Command line basics](https://ru.hexlet.io/courses/cli-basics);
+    * Fundamentals of HTML, CSS and web design;
+    * [Introduction to web development](https://ru.hexlet.io/courses/intro_to_web_development).
 ***
