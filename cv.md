@@ -33,7 +33,6 @@ I am 24 years old, I am an economist. This profession does not give complex task
 ## Code examples
 
 ```java script
-
 function multiply(a, b){  
   return a * b  
 }  
