@@ -33,10 +33,9 @@ I am 24 years old, I am an economist. This profession does not give complex task
 ## Code examples
 
 ```java script
-function helloWorld(){
-  var str="Hello World!"
-  console.log(str)
-  }
+function multiply(a, b){
+  return a * b
+}
 ```
 
 ## Experience
