@@ -2,6 +2,8 @@
 
 # Evgeniya Rogozova
 
+![foto](foto.jpg)
+
 ## Contacts
 
 * **Address**: Koroleva, 57, St.-Petersburg, Russia
