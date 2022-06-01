@@ -1,2 +1,3 @@
-# rsschool-cv
-https://Janeure.github.io/rsschool-cv/cv
+## HTML&CSS  
+
+https://Janeure.github.io/rsschool-cv/
