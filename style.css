@@ -305,3 +305,37 @@ body {
 .section-lang {
   border-bottom: 0; 
 }
+
+
+.footer {
+  padding: 20px; 
+  background-color: var(--header); 
+}
+
+
+.container-footer {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  margin: 0 auto; 
+}
+
+
+.foot-link {
+  text-decoration: none; 
+  transition: color 1s; 
+  cursor: pointer; 
+  color: var(--text); 
+}
+
+
+.foot-link:hover {
+  color: var(--nav-text); 
+}
+
+
+.rss-link {
+  width: 130px; 
+  height: 50px; 
+  background-color: var(--header); 
+}
