@@ -339,3 +339,10 @@ body {
   height: 50px; 
   background-color: var(--header); 
 }
+
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%; 
+  }
+}
